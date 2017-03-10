@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-07T08:19:25.694Z</updated>
+  <updated>2017-03-09T02:34:01.051Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,16 +16,68 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>嗨，你好</title>
-    <link href="http://yoursite.com/2017/03/07/%E5%97%A8%EF%BC%8C%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://yoursite.com/2017/03/07/嗨，你好/</id>
-    <published>2017-03-07T08:19:25.000Z</published>
-    <updated>2017-03-07T08:19:25.694Z</updated>
+    <title>article name</title>
+    <link href="http://yoursite.com/2017/03/09/article-name/"/>
+    <id>http://yoursite.com/2017/03/09/article-name/</id>
+    <published>2017-03-09T02:34:00.000Z</published>
+    <updated>2017-03-09T02:34:01.051Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>嗨，你好</title>
+    <link href="http://yoursite.com/2017/03/07/%E5%97%A8%EF%BC%8C%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://yoursite.com/2017/03/07/嗨，你好/</id>
+    <published>2017-03-07T08:19:25.000Z</published>
+    <updated>2017-03-09T04:41:43.658Z</updated>
+    
+    <content type="html"><![CDATA[<p>而生命 对每个人 都不公平 也没道理</p>
+<p>只能扑向 泥泞迎向 那阵骤雨 由不得你</p>
+<p>突来的骤雨 这条街一路泥泞</p>
+<p>就像人生 不过是一场即兴</p>
+<p>整个世界 正在对我们挑衅</p>
+<p>就算如此 还是得无惧前进</p>
+<a id="more"></a>
+<p>我只有一种咆哮 我要让他们都知道</p>
+<p>我生命再怎麽粗糙 我都要活的很骄傲</p>
+<p>而生命 对每个人 都不公平 也没道理</p>
+<p>只能扑向 泥泞迎向 那阵骤雨 由不得你</p>
+<p>突来的骤雨 这条街一路泥泞</p>
+<p>就像人生 不过是一场即兴</p>
+<p>整个世界 正在对我们挑衅</p>
+<p>就算如此 还是得无惧前进</p>
+<p>我只有一种咆哮 我要让他们都知道</p>
+<p>我生命再怎麽粗糙 我都要活的很骄傲</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;而生命 对每个人 都不公平 也没道理&lt;/p&gt;
+&lt;p&gt;只能扑向 泥泞迎向 那阵骤雨 由不得你&lt;/p&gt;
+&lt;p&gt;突来的骤雨 这条街一路泥泞&lt;/p&gt;
+&lt;p&gt;就像人生 不过是一场即兴&lt;/p&gt;
+&lt;p&gt;整个世界 正在对我们挑衅&lt;/p&gt;
+&lt;p&gt;就算如此 还是得无惧前进&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="cat1" scheme="http://yoursite.com/categories/cat1/"/>
+    
+      <category term="cat2" scheme="http://yoursite.com/categories/cat1/cat2/"/>
+    
+      <category term="cat3" scheme="http://yoursite.com/categories/cat1/cat2/cat3/"/>
+    
+    
+      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
+    
+      <category term="tag3" scheme="http://yoursite.com/tags/tag3/"/>
     
   </entry>
   
