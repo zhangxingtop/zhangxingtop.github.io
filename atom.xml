@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-09T02:34:01.051Z</updated>
+  <updated>2017-03-14T08:22:23.727Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,25 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article name</title>
-    <link href="http://yoursite.com/2017/03/09/article-name/"/>
-    <id>http://yoursite.com/2017/03/09/article-name/</id>
-    <published>2017-03-09T02:34:00.000Z</published>
-    <updated>2017-03-09T02:34:01.051Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>嗨，你好</title>
     <link href="http://yoursite.com/2017/03/07/%E5%97%A8%EF%BC%8C%E4%BD%A0%E5%A5%BD/"/>
     <id>http://yoursite.com/2017/03/07/嗨，你好/</id>
     <published>2017-03-07T08:19:25.000Z</published>
-    <updated>2017-03-09T04:41:43.658Z</updated>
+    <updated>2017-03-14T08:22:23.727Z</updated>
     
     <content type="html"><![CDATA[<p>而生命 对每个人 都不公平 也没道理</p>
 <p>只能扑向 泥泞迎向 那阵骤雨 由不得你</p>
@@ -45,15 +31,8 @@
 <a id="more"></a>
 <p>我只有一种咆哮 我要让他们都知道</p>
 <p>我生命再怎麽粗糙 我都要活的很骄傲</p>
-<p>而生命 对每个人 都不公平 也没道理</p>
-<p>只能扑向 泥泞迎向 那阵骤雨 由不得你</p>
-<p>突来的骤雨 这条街一路泥泞</p>
-<p>就像人生 不过是一场即兴</p>
-<p>整个世界 正在对我们挑衅</p>
-<p>就算如此 还是得无惧前进</p>
-<p>我只有一种咆哮 我要让他们都知道</p>
-<p>我生命再怎麽粗糙 我都要活的很骄傲</p>
-]]></content>
+<p>#This is my first blog</p>
+<h2 id="Just-test"><a href="#Just-test" class="headerlink" title="Just test"></a>Just test</h2>]]></content>
     
     <summary type="html">
     
@@ -66,45 +45,22 @@
     
     </summary>
     
-      <category term="cat1" scheme="http://yoursite.com/categories/cat1/"/>
+      <category term="Thinking" scheme="http://yoursite.com/categories/Thinking/"/>
     
-      <category term="cat2" scheme="http://yoursite.com/categories/cat1/cat2/"/>
+      <category term="question" scheme="http://yoursite.com/categories/Thinking/question/"/>
     
-      <category term="cat3" scheme="http://yoursite.com/categories/cat1/cat2/cat3/"/>
+      <category term="ask" scheme="http://yoursite.com/categories/Thinking/question/ask/"/>
+    
+      <category term="note" scheme="http://yoursite.com/categories/Thinking/question/ask/note/"/>
+    
+      <category term="great" scheme="http://yoursite.com/categories/Thinking/question/ask/note/great/"/>
     
     
-      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
-      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
+      <category term="study" scheme="http://yoursite.com/tags/study/"/>
     
-      <category term="tag3" scheme="http://yoursite.com/tags/tag3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/03/hello-world/"/>
-    <id>http://yoursite.com/2017/03/03/hello-world/</id>
-    <published>2017-03-03T08:01:17.403Z</published>
-    <updated>2017-03-03T08:01:17.403Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="knowledge" scheme="http://yoursite.com/tags/knowledge/"/>
     
   </entry>
   
